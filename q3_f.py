@@ -1,0 +1,1 @@
+f=open("q3_f.txt","x")
